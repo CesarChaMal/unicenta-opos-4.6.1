@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="oracleReleases" />
+      <option name="name" value="oracle Released Java Packages" />
+      <option name="url" value="https://download.oracle.com/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="unicenta-repo" />
+      <option name="name" value="unicenta-repo" />
+      <option name="url" value="https://repo.unicenta.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvnrepository-repo" />
+      <option name="name" value="mvnrepository-repo" />
+      <option name="url" value="https://mvnrepository.com/artifact/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="netbeans-public" />
+      <option name="name" value="netbeans-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-public" />
+      <option name="name" value="spring-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jasper" />
+      <option name="name" value="Jasper Repository" />
+      <option name="url" value="https://jaspersoft.jfrog.io/ui/native/third-party-ce-artifacts" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external3-public" />
+      <option name="name" value="external3-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jasper" />
+      <option name="name" value="Jasper Repository" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2-repository.netbeans.maven2.http" />
+      <option name="name" value="Netbeans Maven Repository http" />
+      <option name="url" value="http://bits.netbeans.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian-public" />
+      <option name="name" value="atlassian-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-public" />
+      <option name="name" value="spring-public" />
+      <option name="url" value="https://oss.jfrog.org/artifactory/oss-release-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="unicenta-repo" />
+      <option name="name" value="unicenta-repo" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvnrepository-repo" />
+      <option name="name" value="mvnrepository-repo" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-repo" />
+      <option name="name" value="spring-repo" />
+      <option name="url" value="https://repo.spring.io/plugins-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-repo" />
+      <option name="name" value="spring-repo" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external2-public" />
+      <option name="name" value="external2-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="primefaces-public" />
+      <option name="name" value="primefaces-public" />
+      <option name="url" value="https://repository.primefaces.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external3-public" />
+      <option name="name" value="external3-public" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian" />
+      <option name="name" value="Atlassian Repository" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian-public" />
+      <option name="name" value="atlassian-public" />
+      <option name="url" value="https://maven.atlassian.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2-repository.netbeans.maven2.https" />
+      <option name="name" value="Netbeans Maven Repository https" />
+      <option name="url" value="https://bits.netbeans.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="primefaces-public" />
+      <option name="name" value="primefaces-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2-repository.netbeans.maven2.https" />
+      <option name="name" value="Netbeans Maven Repository https" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oracleReleases" />
+      <option name="name" value="oracle Released Java Packages" />
+      <option name="url" value="http://download.oracle.com/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oracleReleases" />
+      <option name="name" value="oracle Released Java Packages" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="unicenta-repo" />
+      <option name="name" value="unicenta-repo" />
+      <option name="url" value="http://repo.unicenta.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external2-public" />
+      <option name="name" value="external2-public" />
+      <option name="url" value="https://maven.scijava.org/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external-public" />
+      <option name="name" value="external-public" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external-public" />
+      <option name="name" value="external-public" />
+      <option name="url" value="http://maven.tecgraf.puc-rio.br:8081/nexus/content/groups/external/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="netbeans-public" />
+      <option name="name" value="netbeans-public" />
+      <option name="url" value="https://bits.netbeans.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian" />
+      <option name="name" value="Atlassian Repository" />
+      <option name="url" value="https://maven.atlassian.com/3rdparty/" />
+    </remote-repository>
+  </component>
+</project>
